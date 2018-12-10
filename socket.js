@@ -1,7 +1,7 @@
 
 
 var net = require('net');
-var PORT = 7001;
+var PORT = ;
 
 // 创建一个TCP服务器实例，调用listen函数开始监听指定端口
 // 传入net.createServer()的回调函数将作为”connection“事件的处理函数
