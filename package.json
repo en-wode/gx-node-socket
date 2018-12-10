@@ -1,0 +1,19 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^3.0.3",
+    "mysql": "^2.15.0",
+    "redis-js": "^0.1.2"
+  },
+  "devDependencies": {
+    "redis": "^2.8.0"
+  }
+}
