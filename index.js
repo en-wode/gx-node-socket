@@ -13,7 +13,7 @@ log4js.configure({
 const logger = log4js.getLogger('cheese');
 // var redis = require("redis");
 // var pub = redis.createClient();
-var PORT = 7003;
+var PORT = ;
 let timer=null;
 let socketArr=[];
 let time=0;
